@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2> Juan Muñoz Calvo </h2>
-      <br /> <📚> Estudiante 4º Ingeniería Informática
+        <📚> Estudiante 4º Ingeniería Informática
       <br /> <📍> Escuela Superior de Informática CR
       <br /> <🏛> Universidad de Castilla-La Mancha
 
