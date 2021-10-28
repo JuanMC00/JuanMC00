@@ -1,7 +1,7 @@
 ## Hello there 👋🏽
 
 <div align="center">
-    <h2> Juan Muñoz Calvo </h2>
+    <h1> Juan Muñoz Calvo </h1>
         <📚> Estudiante 4º Ingeniería Informática
       <br /> <📍> Escuela Superior de Informática CR
       <br /> <🏛> Universidad de Castilla-La Mancha
