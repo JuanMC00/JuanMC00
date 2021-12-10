@@ -42,4 +42,4 @@
 
 ## 📫 Contact Me By:
 <a title="Gmail" href="mailto:juanmunozcalvo7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a title="LinkedIn" href="https://www.linkedin.com/in/juan-mu%C3%B1oz-calvo-201b66226//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/jmunoz00/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
